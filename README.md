@@ -1,9 +1,7 @@
 # Portfolio
 # ✦ Salumuri Bhavya Sree — Portfolio
 
-> Aspiring Full-Stack Developer & CSE undergrad turning complex problems into elegant, intuitive interfaces. Driven by deep curiosity for clean architecture, thoughtful UX, and code that doesn't just run — it performs.
-
-![Portfolio Banner](bhavya-photo.png)
+> Aspiring Full-Stack Developer & CSE undergrad turning complex problems into elegant, intuitive interfaces. Driven by deep curiosity for clean architecture, thoughtful UX, and code that doesn't just run — it performs
 
 ## 👤 About Me
 
